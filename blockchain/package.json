@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "config": "^3.3.12",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "querystring": "^0.2.1",
+    "web3": "^4.11.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "blockchain server for nexuSupply",
+  "main": "server.js",
+  "author": "sparsh kumar",
+  "license": "ISC",
+  "type": "module"
+}
