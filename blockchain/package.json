@@ -15,6 +15,5 @@
   "description": "blockchain server for nexuSupply",
   "main": "server.js",
   "author": "sparsh kumar",
-  "license": "ISC",
-  "type": "module"
+  "license": "ISC"
 }
